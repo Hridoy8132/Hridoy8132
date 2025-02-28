@@ -1,5 +1,36 @@
-<h1 align="center">Hi 👋, I'm Muhammad Nurul Haider</h1>
-<h3 align="center">A passionate Frontend Developer | Computer Science Engineer</h3>
+### Hi there 👋, I'm Muhammad Nurul Haider
+####  Frontend Developer | Web Designer | Tech Enthusiast
+![ Frontend Developer | Web Designer | Tech Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQEECkcEpIriCQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688813493345?e=1746057600&v=beta&t=zRN36PxAbwpoclA8vcDlvImrSYUia_Zf9w9T6-Zp7KE)
+
+I am a passionate Frontend Developer with a keen eye for design and a love for crafting intuitive, user-friendly web experiences. With expertise in HTML, CSS, JavaScript, React, Tailwind and Bootstrap, I build responsive and dynamic interfaces that bring ideas to life.
+
+💡 What I Do:
+
+Design and develop modern, pixel-perfect UI/UX.
+Build responsive and interactive web applications.
+Optimize performance for seamless user experiences.
+Stay updated with the latest frontend technologies and trends.
+
+🛠 Tech Stack:
+🔹 HTML | CSS | JavaScript | TypeScript | React | Next.js
+🔹 Tailwind CSS | Bootstrap | Material UI
+🔹 Git | GitHub | Firebase | REST APIs
+
+📌 Projects I've Worked On:
+
+🔗 E-commerce Websites
+🏥 Hospital & University Portals
+🍽 Restaurant Websites
+📊 Interactive Dashboards
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hridoy8132)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nurul-haider/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.nurul.haider)  
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy8132&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy8132" /> </p>
 
