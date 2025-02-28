@@ -12,6 +12,7 @@ Optimize performance for seamless user experiences.
 Stay updated with the latest frontend technologies and trends.
 
 🛠 Tech Stack: <br>
+
 🔹 HTML | CSS | JavaScript | TypeScript | React | Next.js <br>
 🔹 Tailwind CSS | Bootstrap | Material UI <br>
 🔹 Git | GitHub | Firebase | REST APIs <br>
@@ -42,8 +43,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Bootstrap
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hridoy8132)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nurul-haider/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.nurul.haider)  
-
+<a href="https://linkedin.com/in/md-nurul-haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-nurul-haider" height="30" width="40" /></a>
+<a href="https://fb.com/muhammad.nurul.haider.772736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad.nurul.haider.772736" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
