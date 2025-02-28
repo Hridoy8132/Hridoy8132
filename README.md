@@ -2,7 +2,6 @@
 
 ### Hi there 👋, I'm Muhammad Nurul Haider
 ####  Frontend Developer | Web Designer | Tech Enthusiast
-![ Frontend Developer | Web Designer | Tech Enthusiast]
 
 I am a passionate Frontend Developer with a keen eye for design and a love for crafting intuitive, user-friendly web experiences. With expertise in HTML, CSS, JavaScript, React, Tailwind and Bootstrap, I build responsive and dynamic interfaces that bring ideas to life.
 
@@ -13,17 +12,17 @@ Build responsive and interactive web applications.
 Optimize performance for seamless user experiences.
 Stay updated with the latest frontend technologies and trends.
 
-🛠 Tech Stack:
+🛠 Tech Stack: <br>
 🔹 HTML | CSS | JavaScript | TypeScript | React | Next.js <br>
 🔹 Tailwind CSS | Bootstrap | Material UI <br>
 🔹 Git | GitHub | Firebase | REST APIs <br>
 
 📌 Projects I've Worked On:
 
-🔗 E-commerce Websites
-🏥 Hospital & University Portals
-🍽 Restaurant Websites
-📊 Interactive Dashboards
+🔗 E-commerce Websites <br>
+🏥 Hospital & University Portals <br>
+🍽 Restaurant Websites <br>
+📊 Interactive Dashboards <br>
 
 Skills: VUE JS / REACT / JS / HTML / CSS / Bootstrap
 
