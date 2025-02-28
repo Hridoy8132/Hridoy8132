@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Nurul Haider</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A passionate Frontend Developer | Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy8132&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy8132" /> </p>
 
@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **hridoy0182726@gmail.com**
 
-- 📄 Know about my experiences [file:///D:/PycharmProjects/OneDrive/Desktop/CV%20Muhammad%20Nurul%20Haider.pdf](file:///D:/PycharmProjects/OneDrive/Desktop/CV%20Muhammad%20Nurul%20Haider.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
