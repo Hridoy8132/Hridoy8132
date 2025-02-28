@@ -1,6 +1,8 @@
+(https://media.licdn.com/dms/image/v2/D5616AQEECkcEpIriCQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688813493345?e=1746057600&v=beta&t=zRN36PxAbwpoclA8vcDlvImrSYUia_Zf9w9T6-Zp7KE)
+
 ### Hi there 👋, I'm Muhammad Nurul Haider
 ####  Frontend Developer | Web Designer | Tech Enthusiast
-![ Frontend Developer | Web Designer | Tech Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQEECkcEpIriCQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688813493345?e=1746057600&v=beta&t=zRN36PxAbwpoclA8vcDlvImrSYUia_Zf9w9T6-Zp7KE)
+![ Frontend Developer | Web Designer | Tech Enthusiast]
 
 I am a passionate Frontend Developer with a keen eye for design and a love for crafting intuitive, user-friendly web experiences. With expertise in HTML, CSS, JavaScript, React, Tailwind and Bootstrap, I build responsive and dynamic interfaces that bring ideas to life.
 
@@ -12,9 +14,9 @@ Optimize performance for seamless user experiences.
 Stay updated with the latest frontend technologies and trends.
 
 🛠 Tech Stack:
-🔹 HTML | CSS | JavaScript | TypeScript | React | Next.js
-🔹 Tailwind CSS | Bootstrap | Material UI
-🔹 Git | GitHub | Firebase | REST APIs
+🔹 HTML | CSS | JavaScript | TypeScript | React | Next.js <br>
+🔹 Tailwind CSS | Bootstrap | Material UI <br>
+🔹 Git | GitHub | Firebase | REST APIs <br>
 
 📌 Projects I've Worked On:
 
@@ -23,14 +25,7 @@ Stay updated with the latest frontend technologies and trends.
 🍽 Restaurant Websites
 📊 Interactive Dashboards
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hridoy8132)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nurul-haider/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.nurul.haider)  
-
-
+Skills: VUE JS / REACT / JS / HTML / CSS / Bootstrap
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hridoy8132&label=Profile%20views&color=0e75b6&style=flat" alt="hridoy8132" /> </p>
 
@@ -49,8 +44,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arman-liakot-ali-1364561a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arman-liakot-ali-1364561a0/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/muhammad.nurul.haider.772736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhammad.nurul.haider.772736" height="30" width="40" /></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hridoy8132)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-nurul-haider/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/muhammad.nurul.haider)  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
