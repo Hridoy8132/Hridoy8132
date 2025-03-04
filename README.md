@@ -54,4 +54,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Bootstrap
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridoy8132&show_icons=true&locale=en" alt="hridoy8132" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hridoy8132&" alt="hridoy8132" /></p>
+
