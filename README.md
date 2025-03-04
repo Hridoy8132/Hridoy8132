@@ -1,4 +1,4 @@
-![web Developer](https://media.licdn.com/dms/image/v2/D5616AQEECkcEpIriCQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1688813493345?e=1746057600&v=beta&t=zRN36PxAbwpoclA8vcDlvImrSYUia_Zf9w9T6-Zp7KE)
+![web Developer]https://media.licdn.com/dms/image/v2/D5616AQGFxtfNnTVnjQ/profile-displaybackgroundimage-shrink_350_1400/B56ZVh_nmsHQAY-/0/1741105824069?e=1746662400&v=beta&t=a5YRMK7__saGYz2SFLlz_Ccoh_lvZWdWMtFmcAl5wSk
 ### Hi there 👋, I'm Muhammad Nurul Haider
 ####  Frontend Developer | Web Designer | Tech Enthusiast
 
